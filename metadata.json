@@ -1,0 +1,6 @@
+{
+  "name": "University of Eldoret Student Resource Hub",
+  "description": "Official student academic portal and campus resource hub for University of Eldoret (Chepkoilel Main Campus & Town Campus). Past exams, lecture notes, Kenyan GPA & CAT calculator, HELB bursary radar, and campus survival guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
